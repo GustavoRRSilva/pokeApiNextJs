@@ -1,12 +1,9 @@
-![Imagem do site]()
+![Imagem do site](![alt text](image.png))
 
 # 🖥 Funcionalidades 
-- `Funcionalidade 1:` `Pontuação`:Mostra a pontuação atual do jogador.;
-- `Funcionalidade 2:` `Dica sobre a palavra`:Fornece uma dica sobre a categoria da palavra que o jogador está tentando adivinhar;
-- `Funcionalidade 3:` `Tentativas restantes`:Exibe quantas tentativas restam para o jogador adivinhar a palavra.;
-- `Funcionalidade 4:` `Contêiner de letras da palavra`:Renderiza as letras da palavra a ser adivinhada. Se uma letra foi adivinhada corretamente, ela é exibida. Caso contrário, é exibido um espaço em branco no lugar da letra.
-- `Funcionalidade 5:` `Contêiner de entrada de letra:`:Permite que o jogador insira uma letra para tentar adivinhar a palavra. Quando o jogador pressiona o botão "Jogar", a letra é verificada e adicionada à lista de letras já adivinhadas.;
-- `Funcionalidade 6:` `Contêiner de letras incorretas`:Exibe as letras que o jogador já tentou e que não fazem parte da palavra a ser adivinhada;
+- `Funcionalidade 1:` `Mostra pokemons`:Mostra a lista de pokemons.;
+- `Funcionalidade 2:` `Pokemons detalhados`:Mostra dados de cada pokemon detalhado ao clicar;
+
 
 # ⌛ Status 
 <p align="center">
@@ -20,4 +17,4 @@
 `4ª:` Usar rotas do NextJs<br>
 
 # 🔗 Link 
-`1ª:Site`  <br>
+`1ª:Site`https://poke-api-next-js-sage.vercel.app/  <br>
