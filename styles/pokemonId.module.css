@@ -1,0 +1,15 @@
+.divCompleta{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.divCompleta img{
+    width: 400px;
+}
+.divCompleta h2{
+    margin-top: -70px;
+}
+.h3{
+    padding: 10px;
+}
