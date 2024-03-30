@@ -1,4 +1,4 @@
-![Imagem do site](![alt text](image.png))
+![alt text](image.png)
 
 # 🖥 Funcionalidades 
 - `Funcionalidade 1:` `Mostra pokemons`:Mostra a lista de pokemons.;
